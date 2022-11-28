@@ -4,12 +4,47 @@
     "icons": [
         {
           "src": "/icons/icon-32.png",
-          "type": "image/png",
-          "sizes": "512x512"
+          "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-64.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-96.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-128.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-168.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-180.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-192.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-256.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/maskable_icon.png",
+            "type": "image/png"
         }
     ],
 
-    "start_url": "",
+    "start_url": "index.html",
     "display": "fullscreen"
 
 }
