@@ -1,0 +1,15 @@
+{
+    "short-name": "Ginko",
+    "name": "Ginko Bus",
+    "icons": [
+        {
+          "src": "/icons/icon-32.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+    ],
+
+    "start_url": "",
+    "display": "fullscreen"
+
+}
