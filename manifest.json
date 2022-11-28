@@ -44,7 +44,7 @@
         }
     ],
 
-    "start_url": "index.html",
+    "start_url": "/ginkobus/index.html",
     "display": "fullscreen",
     "theme_color": "#000000",
     "background_color": "#000000"
